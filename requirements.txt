@@ -1,0 +1,6 @@
+requests
+python-telegram-bot
+folium
+gpxpy
+pykml
+matplotlib
